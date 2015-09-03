@@ -1,0 +1,18 @@
+############	JASPREET SINGH   #############
+############      201202078      #############
+
+MININET TOPOLOGY CLOUD ASSIGNMENT
+
+Requirements
+
+# Mininet
+
+Installation
+
+$ sudo apt-get install mininet
+
+How to run?
+
+$ python mininet_topology.py number_of_switches number_of_hosts_per_switch
+
+The script requires two command line arguments as described above.
